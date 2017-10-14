@@ -1,5 +1,5 @@
 === Fastest Share Buttons ===
-Contributors: moise
+Contributors: alexmoise
 Donate link: https://www.paypal.me/alexmoise
 Tags: social media, social share, share post, social sharing, share buttons, share bar, share, share links
 Requires at least: 4.5.0
@@ -78,6 +78,14 @@ Yes, each button has its own display option in the settings page
 Check the Stretch bar at bottom option in the settings page
 
 == Changelog ==
+
+= 1.0.3 =
+
+Tweaked some more options in the readme files
+
+= 1.0.2 =
+
+Tweaked few options in the readme files
 
 = 1.0.1 =
 
