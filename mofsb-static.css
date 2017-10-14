@@ -1,0 +1,13 @@
+/* =========== button specific =============== */ 
+.mofsb-button-facebook { background-color:#3B5998; }
+.mofsb-button-twitter { background-color:#00aced; }
+.mofsb-button-pinterest { background-color:#CB2027; }
+.mofsb-button-google { background-color:#E74C3C; }
+.mofsb-button-tumblr { background-color:#36465d; }
+.mofsb-button-email { background-color:#787878; }
+
+/* =========== static after this =============== */
+.mofsb-wrapper-floating { z-index: 99999; }
+.mofsb-wrapper-static .mofsb-button { display: inline-block; }
+.mofsb-button { vertical-align: bottom; position: relative; }
+.mofsb-button img { position: absolute;  top: 0;  bottom: 0;  left: 0;  right: 0;  margin: auto; }
