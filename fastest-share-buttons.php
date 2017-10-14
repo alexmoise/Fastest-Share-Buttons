@@ -2,6 +2,7 @@
 /**
  * Plugin Name: Fastest Share Buttons
  * Plugin URI: https://moise.pro/fastest-share-buttons-for-wordpress/
+ * GitHub Plugin URI: https://github.com/alexmoise/Fastest-Share-Buttons
  * Description: An extremely fast and mobile friendly social share plugin - no JS, no external API, with light SVG icons, cache compatible and highly customizable with 20+ options.
  * Version: 1.0.1
  * Author: Alex Moise
