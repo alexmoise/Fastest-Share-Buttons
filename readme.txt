@@ -77,6 +77,21 @@ Yes, each button has its own display option in the settings page
 
 Check the Stretch bar at bottom option in the settings page
 
+== Screenshots ==
+
+1. Floating share bar stretched at the bottom on large screens (some desktops, some tablets)
+2. Floating share bar stretched at the bottom on small screens (usually mobiles)
+3. Static share bar above the content and shortcode on large screens (desktops, some tablets)
+4. Static share bar above the content and shortcode on small screens (usually mobiles)
+5. Floating share bar on the left side on large screens (most desktops, some tablets)
+6. First activation notice with plugin settings direct link
+7. Fastest share buttons display locations and types settings
+8. Fastest share buttons selection
+9. Fastest share buttons styling options
+10. Fastest share buttons more styling options
+11. Fastest share buttons compatibility management settings
+12. Fastest share buttons uninstall setting
+
 == Changelog ==
 
 = 1.0.3 =
