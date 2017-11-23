@@ -2,9 +2,10 @@
 Contributors: alexmoise
 Donate link: https://www.paypal.me/alexmoise
 Tags: social media, social share, share post, social sharing, share buttons, share bar, share, share links
-Requires at least: 4.5.0
-Tested up to: 4.8.2
-Stable tag: 1.0
+Requires at least: 4.0
+Tested up to: 4.9
+Requires PHP: 5.4.16
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
