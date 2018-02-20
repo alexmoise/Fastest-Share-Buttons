@@ -95,6 +95,14 @@ Check the Stretch bar at bottom option in the settings page
 
 == Changelog ==
 
+= 1.0.5 =
+
+Correcting a substring offset problem with Twitter substring extraction
+
+= 1.0.4 =
+
+Changed the plugin icon, plus minor fixes
+
 = 1.0.3 =
 
 Tweaked some more options in the readme files
