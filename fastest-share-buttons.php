@@ -4,7 +4,7 @@
  * Plugin URI: https://moise.pro/fastest-share-buttons-for-wordpress/
  * GitHub Plugin URI: https://github.com/alexmoise/Fastest-Share-Buttons
  * Description: An extremely fast and mobile friendly social share plugin - no JS, no external API, with light SVG icons, cache compatible and highly customizable with 20+ options.
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: Alex Moise
  * Author URI: https://moise.pro
  */
@@ -97,7 +97,8 @@ function mofsb_post_details($post_id) {
 	$mofsb_post_array['link'] 				= get_permalink();
 	$mofsb_post_array['feat_image'] 		= wp_get_attachment_url( get_post_thumbnail_id($post_id) );
 	$mofsb_post_array['http_feat_image']	= "http://" . parse_url ($mofsb_post_array['feat_image'], PHP_URL_HOST) . parse_url ($mofsb_post_array['feat_image'], PHP_URL_PATH);
-	$mofsb_post_array['content_80'] 		= str_replace("\r\n", " ", substr( wp_strip_all_tags( get_the_content( $post_id ) ), 0, strpos(get_the_content( $post_id ), ' ', 80)) );
+	if (strlen(get_the_content( $post_id )) >=80) {$mofsb_post_len = 80;} else {$mofsb_post_len = strlen(get_the_content( $post_id ));}
+	$mofsb_post_array['content_80'] 		= str_replace("\r\n", " ", substr( wp_strip_all_tags( get_the_content( $post_id ) ), 0, strpos(get_the_content( $post_id ), ' ', $mofsb_post_len)) );
 	return $mofsb_post_array;
 }
 
