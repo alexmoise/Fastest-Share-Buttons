@@ -34,7 +34,7 @@ The downside is we won't have share counters - but that can be solved by caching
 * User defined spacing before and after the fixed share bar
 * Shortcode available to insert the share buttons wherever you see fit; Just use [mofsb] inside posts or pages.
 
-# Detailed description, screenshots and guide for Fastest Share Buttons for WordPress at:
+# Detailed description, screenshots and guide at:
 https://moise.pro/fastest-share-buttons-for-wordpress/
 
 # Roadmap
