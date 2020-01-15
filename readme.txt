@@ -3,7 +3,7 @@ Contributors: alexmoise
 Donate link: https://www.paypal.me/alexmoise
 Tags: social media, social share, share post, social sharing, share buttons, share bar, share, share links
 Requires at least: 4.0
-Tested up to: 4.9
+Tested up to: 5.3.2
 Requires PHP: 5.4.16
 Stable tag: trunk
 License: GPLv2 or later
@@ -94,6 +94,10 @@ Check the Stretch bar at bottom option in the settings page
 12. Fastest share buttons uninstall setting
 
 == Changelog ==
+
+= 1.0.6 =
+
+Tested to work on WP 5.3.2
 
 = 1.0.5 =
 
