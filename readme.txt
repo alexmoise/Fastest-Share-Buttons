@@ -3,7 +3,7 @@ Contributors: alexmoise
 Donate link: https://www.paypal.me/alexmoise
 Tags: social media, social share, share post, social sharing, share buttons, share bar, share, share links
 Requires at least: 4.0
-Tested up to: 5.3.2
+Tested up to: 7.0
 Requires PHP: 5.4.16
 Stable tag: trunk
 License: GPLv2 or later
@@ -26,8 +26,7 @@ The downside is we won't have share counters - but that can be solved by caching
 = Supported Networks =
 
 * Facebook
-* Twitter
-* Google Plus
+* X (Twitter)
 * Pinterest
 * Tumblr
 * Email
@@ -94,6 +93,10 @@ Check the Stretch bar at bottom option in the settings page
 12. Fastest share buttons uninstall setting
 
 == Changelog ==
+
+= 1.0.7 =
+
+Modernized share URLs for current networks, removed Google+, added optional X handle support, and validated on WordPress 7.0
 
 = 1.0.6 =
 

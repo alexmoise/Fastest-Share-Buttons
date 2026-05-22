@@ -16,8 +16,7 @@ The downside is we won't have share counters - but that can be solved by caching
 # Supported Networks
 
 * Facebook
-* Twitter
-* Google Plus
+* X (Twitter)
 * Pinterest
 * Tumblr
 * Email
@@ -44,3 +43,7 @@ https://moise.pro/fastest-share-buttons-for-wordpress/
 * Connect with a share stats plugin and show total share numbers from its cache
 * Add more buttons
 * Add options to change buttons order
+
+# Compatibility
+
+Validated on WordPress 7.0.
